@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ACIT3625_netlify/precache-manifest.a4683f4ad0276dead2baa183624c179f.js"
+  "/ACIT3625_netlify/precache-manifest.6890deaf6d677f4e8d74f384638640ee.js"
 );
 
 self.addEventListener('message', (event) => {
