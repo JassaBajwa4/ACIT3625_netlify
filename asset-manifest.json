@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ACIT3625_netlify/static/css/main.d88b8004.chunk.css",
+    "main.js": "/ACIT3625_netlify/static/js/main.c9af536e.chunk.js",
+    "main.js.map": "/ACIT3625_netlify/static/js/main.c9af536e.chunk.js.map",
+    "runtime-main.js": "/ACIT3625_netlify/static/js/runtime-main.6c5df7db.js",
+    "runtime-main.js.map": "/ACIT3625_netlify/static/js/runtime-main.6c5df7db.js.map",
+    "static/js/2.43573772.chunk.js": "/ACIT3625_netlify/static/js/2.43573772.chunk.js",
+    "static/js/2.43573772.chunk.js.map": "/ACIT3625_netlify/static/js/2.43573772.chunk.js.map",
+    "index.html": "/ACIT3625_netlify/index.html",
+    "precache-manifest.a4683f4ad0276dead2baa183624c179f.js": "/ACIT3625_netlify/precache-manifest.a4683f4ad0276dead2baa183624c179f.js",
+    "service-worker.js": "/ACIT3625_netlify/service-worker.js",
+    "static/css/main.d88b8004.chunk.css.map": "/ACIT3625_netlify/static/css/main.d88b8004.chunk.css.map",
+    "static/js/2.43573772.chunk.js.LICENSE.txt": "/ACIT3625_netlify/static/js/2.43573772.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c5df7db.js",
+    "static/js/2.43573772.chunk.js",
+    "static/css/main.d88b8004.chunk.css",
+    "static/js/main.c9af536e.chunk.js"
+  ]
+}
